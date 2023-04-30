@@ -57,3 +57,5 @@
 ### 📊 My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tabares2003&theme=tokyonight&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -40,8 +40,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUE" alt="VUE"
         width="40" height="40"/>&nbsp;  
     </div>
-    <H2>🔧 Other Tools:</H2>    
+    <h4>🪓 Other Tools:</H4>    
     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
+        width="30" height="30"/>&nbsp;
         
     </div>
 </div>

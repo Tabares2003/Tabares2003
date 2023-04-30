@@ -43,7 +43,7 @@
     <h4>🪓 Other Tools:</H4>    
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
-        width="30" height="30"/>&nbsp;
+        width="27" height="27"/>&nbsp;
         
     </div>
 </div>

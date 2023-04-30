@@ -19,4 +19,4 @@
 
 - ✍️ I am currently learning and perfecting **React, Vue, among others!**
 
-- 🌐 Website [https://tabares2003.github.io/PortfolioProject](https://tabares2003.github.io/PortfolioProject)
+- 🌐 Website [Portfolio](https://tabares2003.github.io/PortfolioProject)

@@ -38,7 +38,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP"
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUE" alt="VUE"
-        width="40" height="40"/>&nbsp;
+        width="40" height="40"/>&nbsp;  
+    </div>
+    <H2>🔧 Other Tools:</H2>    
+    <div>
         
     </div>
 </div>

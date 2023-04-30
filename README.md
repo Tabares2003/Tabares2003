@@ -20,3 +20,12 @@
 - ✍️ I am currently learning and perfecting **React, Vue, among others!**
 
 - 🌐 Website [Portfolio](https://tabares2003.github.io/PortfolioProject)
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
+        width="40" height="40"/>&nbsp;
+    </div>
+</div>

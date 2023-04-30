@@ -39,11 +39,16 @@
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUE" alt="VUE"
         width="40" height="40"/>&nbsp;  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WORDPRESS" alt="WORDPRESS"
+        width="40" height="40"/>&nbsp; 
     </div>
     <h4>🪓 Other Tools:</H4>    
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
         width="27" height="27"/>&nbsp;
-        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="FIGMA"
+        width="27" height="27"/>&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman"
+        width="27" height="27"/>&nbsp;
     </div>
 </div>

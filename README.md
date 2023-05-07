@@ -41,6 +41,8 @@
         width="40" height="40"/>&nbsp;  
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WORDPRESS" alt="WORDPRESS"
         width="40" height="40"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="WORDPRESS" alt="WORDPRESS"
+        width="40" height="40"/>&nbsp; 
     </div>
     <h4>🪓 Other Tools:</H4>    
     <div>

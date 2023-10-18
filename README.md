@@ -19,7 +19,7 @@
 
 - ✍️ I am currently learning and perfecting **React, Vue, among others!**
 
-- 🌐 Website [Portfolio](https://tabares2003.github.io/PortfolioProject)
+- 🌐 Website [Portfolio](https://tabaresportfolio.vercel.app/)
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -37,8 +37,6 @@
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP"
         width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUE" alt="VUE"
-        width="40" height="40"/>&nbsp;  
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WORDPRESS" alt="WORDPRESS"
         width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="WORDPRESS" alt="WORDPRESS"

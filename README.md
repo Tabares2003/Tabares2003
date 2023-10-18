@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me :
 
-- 💼 I work with JavaScript, React, Vue.Js and so on!
+- 💼 I work with JavaScript, React and so on!
 
 - 📫 How to reach me **juanpablorojas200308@gmail.com**
 
-- ✍️ I am currently learning and perfecting **React, Vue, among others!**
+- ✍️ I am currently learning and perfecting **React among others!**
 
 - 🌐 Website [Portfolio](https://tabaresportfolio.vercel.app/)
 <div align="left">
